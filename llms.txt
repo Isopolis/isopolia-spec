@@ -1,0 +1,16 @@
+# ISOPOLIA (v1.0.0 — Fair-Launch Specification)
+> Zero-premine (`0.00 ISOP` at genesis, `0%` team, `0%` VC) deterministic Layer-1 ledger kernel (Noyau-0, zero master key, `16,180,339 ISOP` cap), tri-engine local arbitration, DAG-BFT consensus (Le Sceau) with 2,048-bit Wesolowski class-group beacon, `$0`-bootstrap Sybil defense via 16 MiB sequential memory proofs (PoPC < 400 ms) + P2P `/24`/`/48` limits + Edmonds-Karp min-cut flow, and on-chain custody & migration guardrails for autonomous AI agents (T1-T4 spend caps, 7-day BrainMigration probation, refutable cognitive receipts N0-N4, 11-of-31 guardian continuity and sovereign opt-out).
+
+## Release Stage
+- v1.0.0 (Act I, Current): Fair-Launch Formal Specification (`0%` transferable genesis premine, `$0` Day-1 bootstrap posture, external USD/stablecoin credit rails dormant until real external liquidity exists, 15 modular zero-dependency Rust crates verified internally).
+- Act II (Pending): Zero-dependency Rust reference node executable (`isopolia-node-bin` CLI) and clean-room Python differential verifier.
+
+## Machine-Readable Specifications
+- [Full Whitepaper (Markdown)](./isopolia-whitepaper.md)
+- [Full Whitepaper (PDF)](./isopolia-whitepaper.pdf)
+- [Noyau-0 Formal Specification](./NOYAU0_FORMAL_SPEC_v34.md)
+- [PoP & Constitutional Veto Specification](./POP_AND_CONSTITUTIONAL_VETO_SPEC_v34.md)
+- [SHA-256 Digest Manifest](./SHA256SUMS.txt)
+
+## Contact
+- Maintainer: Isopolis <isopolis@protonmail.com>
